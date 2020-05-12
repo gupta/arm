@@ -3,9 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {},
     "variables": {
-        "functionBuildUri": "https://pipelinetrigger20200511213020.azurewebsites.net/api/runPipeline?code=etCVDUO3CPajgMW72m/iczw1/FKcAXsIUNSBCQ1upeLbNWTzyE/MfQ==&subsid=5309d4eb-430f-4c21-b724-a0c3eda95143&rsgrpname=Test1",
-        "emptyUri": "https://raw.githubusercontent.com/gupta/arm/master/empty.json"
-    },
+        "functionBuildUri": "https://pipelinetrigger20200511213020.azurewebsites.net/api/runPipeline?code=etCVDUO3CPajgMW72m/iczw1/FKcAXsIUNSBCQ1upeLbNWTzyE/MfQ==&subsid=5309d4eb-430f-4c21-b724-a0c3eda95143&rsgrpname=Test1"    },
     "resources": [
         {
             "name": "BuildFunctionTemplate",
